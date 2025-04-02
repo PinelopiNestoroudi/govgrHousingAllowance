@@ -1,0 +1,156 @@
+{
+    "PublicService": {
+        "name": "Ηousing allowance for university students",
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "E9 Form of Parents and the Eligible Student",
+                        "description": "Asset declaration - E9 form for the year of application."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Certificate of Primary Residence",
+                        "description": "Certificate stating the student's primary residence."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "Valid Rental Agreement",
+                        "description": "Rental agreement for the student's rented residence due to studies."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "Additional Rental Agreements",
+                        "description": "Additional rental agreements for the application period, if more than one exists."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "evs": [
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "ID Card or Passport",
+                        "description": "Proof of Greek or European citizenship."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "evs": [
+                    {
+                        "id": "ev0006",
+                        "type": "Evidence",
+                        "name": "Valid Academic ID",
+                        "description": "Proof of active student status."
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "evs": [
+                    {
+                        "id": "ev0007",
+                        "type": "Evidence",
+                        "name": "Certificate of Successful Course Completion for the Application Year",
+                        "description": "University-issued certificate confirming successful completion of at least half of the previous academic year’s courses."
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "evs": [
+                    {
+                        "id": "ev0008",
+                        "type": "Evidence",
+                        "name": "Tax Clearance Certificate",
+                        "description": "Tax clearance certificate of the student or their parents for the application year."
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "evs": [
+                    {
+                        "id": "ev0009",
+                        "type": "Evidence",
+                        "name": "E9 Form of the Student (and Spouse, if applicable)",
+                        "description": "Asset declaration - E9 form for the year of application."
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "evs": [
+                    {
+                        "id": "ev0010",
+                        "type": "Evidence",
+                        "name": "Documents Related to the Asset Status of the Student and Parents Residing Abroad",
+                        "description": "Asset declaration - E9 form for the year of application."
+                    }
+                ]
+            }
+            
+        ],
+        "criterion_requirements": [
+            {
+                "id": "cr0001",
+                "name": "Greek Citizenship"
+            },
+            {
+                "id": "cr0002",
+                "name": "Citizens of EU Member States, as well as citizens of EEA Member States (European Economic Area)"
+            },
+            {
+                "id": "cr0003",
+                "name": "Citizens of States included in the European Convention, ratified by Law 4017/1959 (Government Gazette 246/59 A')"
+            },
+            {
+                "id": "cr0004",
+                "name": "Third-country nationals who have become incapable of work due to a workplace accident in Greek territory, or are family members of Greek or EU citizens, as provided in articles 20 par. 2 of Law 106/2007 (Government Gazette A' 135), article 85 par. 4 of Law 4251/2014 (Government Gazette A' 80), and article 31 par. 1 of Law 4540/2018 (Government Gazette A' 91)"
+            },
+            {
+                "id": "cr0005",
+                "name": "Recognized refugees permanently residing in Greece, whose residence status in Greece is governed by the provisions of the 1951 Convention Relating to the Status of Refugees (Law 3989/1959, Government Gazette A' 201), as amended by the New York Protocol of 1967 on the Status of Refugees (Law 389/1968, Government Gazette A' 125), beneficiaries of subsidiary protection, and individuals in a residence status for humanitarian reasons"
+            },
+            {
+                "id": "cr0006",
+                "name": "Permanently and legally residing in Greece"
+            },
+            {
+                "id": "cr0007",
+                "name": "Have a disability rate of at least 67% or are beneficiaries of disability allowances provided by OAED (Manpower Employment Organization)"
+            },
+            {
+                "id": "cr0008",
+                "name": "Their annual total declared individual income does not exceed twenty-three thousand (23,000) euros, or their annual total declared family income does not exceed twenty-nine thousand (29,000) euros (the annual total declared family income of 29,000 euros is increased by 5,600 euros for each additional person beyond the beneficiary, residing and dependent on the taxpayer, if that person has a disability of 67% and above). The cash amounts provided by OAED as disability benefits are not included in the income thresholds."
+            },
+            {
+                "id": "cr0009",
+                "name": "Totally blind individuals (Law 958/1979, Government Gazette A' 191) and their companions are exempted from the income criteria, as defined above, according to decision 445/98 of the Council of Suspension of the Council of State, and they receive a travel pass regardless of their income limit."
+            }
+        ]
+    }
+}

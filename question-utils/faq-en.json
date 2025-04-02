@@ -1,0 +1,28 @@
+[
+    {
+        "id": 0,
+        "question": "How can I register for the service to submit an online application for the housing allowance?",
+        "answer": "To access the online application, the beneficiary (parent or student) must use the username and password provided by the Independent Authority for Public Revenue (AADE) for TAXISnet electronic services. Entering these credentials serves as a declaration of consent for the verification of their personal information."
+    },
+    {
+        "id": 1,
+        "question": "The child is declared as a dependent by the student's father, but the lease agreement is under the mother's Tax Identification Number (TIN). The two parents are married. Who should submit the application?",
+        "answer": "The online application for the housing allowance must be submitted by the eligible beneficiary, meaning the person on whom the student is financially dependent, as defined by Article 11 of Law 4172/2013 (A’ 167). During the lease agreement step, if details of the other parent have been provided, their TIN may also be selected as the tenant. If the lease agreement cannot be verified electronically, the contract must be submitted to the relevant university office, where an authorized staff member will assess the related lease criteria in the online system."
+    },
+    {
+        "id": 2,
+        "question": "What are the academic criteria for this program?",
+        "answer": "The academic criteria for the program, which are verified by the responsible university office, are as follows:\n● The student must have successfully passed at least half of the courses from the previous academic year for which they are applying for the allowance. This criterion does not apply to first-year students.\n● The allowance is granted for the number of years corresponding to the official duration of studies of the respective school or department, as defined by its regulations, including any time the student received the allowance while enrolled in another department or school. For the verification of this criterion, additional interoperability with the Academic Identity service (student ID card) is in place."
+    },
+    {
+        "id": 3,
+        "question": "I am divorced. Which parent should submit the housing allowance application for our child?",
+        "answer": "In the case of divorced or separated parents, the parent who claims the student as a dependent is the one eligible to submit the application for the allowance."
+    },
+    {
+        "id": 4,
+        "question": "Can I submit a late application?",
+        "answer": "No, application creation and submission are only allowed during the time periods specified by the Ministry of Education."
+    }
+]
+

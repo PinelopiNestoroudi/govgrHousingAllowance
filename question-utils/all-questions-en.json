@@ -1,0 +1,64 @@
+[
+    {
+        "id": 0,
+        "question": "Fill in the answer that applies to your case. I am applying as a university...",
+        "options": ["... student who is a dependent child", "... student who is <strong>not</strong> a dependent child", "... dependent student with parents who are permanent residents abroad", "... parent applying for a student who is my dependent child", "... parent applying for a student who is <strong>not</strong> my dependent child"]
+    },
+    {
+        "id": 1,
+        "question": "Is the student enrolled in their first-degree program and has not exceeded the duration of studies required to obtain the degree, according to the curriculum of their school?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 2,
+        "question": "Does the student reside in rented accommodation due to their studies in a city other than their primary residence, where neither they nor their parents have full ownership or usufruct of a residence?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 3,
+        "question": "Is the rented accommodation located within the Region of Attica or the Regional Unit of Thessaloniki?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 4,
+        "question": "Does the student share accommodation with another undergraduate student who is also enrolled in their first-degree program (and has not exceeded the duration of studies required to obtain their degree), and are both students' schools/departments located in the same city or regional unit?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 5,
+        "question": "Is the rental agreement for the student’s accommodation valid for at least six months?",
+        "options": ["Yes", "No", "Yes, but it is combined with more than one rental agreement"]
+    },
+    {
+        "id": 6,
+        "question": "Does the student hold Greek nationality or the nationality of another European Union country?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 7,
+        "question": "Does the student possess a valid academic ID?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 8,
+        "question": "Select the answer that applies to your case.",
+        "options": ["The student or their parents own or have usufruct rights on residential properties (self-used or rented) that exceed 200 sq.m. in total.",
+                    "The student or their parents own or have usufruct rights on residential properties (self-used or rented) that exceed 200 sq.m. in total but are located in a municipality or community with a population of less than 3,000 inhabitants.",
+                    "The student or their parents <strong>do not</strong> own or have usufruct rights on residential properties (self-used or rented) that exceed 200 sq.m. in total but are located in a municipality or community with a population of less than 3,000 inhabitants."]
+    },
+    {
+        "id": 9,
+        "question": "Has the student successfully passed at least half of the courses from the previous academic year for which they are applying for the grant?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 10,
+        "question": "Has a tax return been submitted by the parent who supports the student, or by the student in case they are not considered a dependent child, for the year in which the housing allowance application is submitted?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 11,
+        "question": "Is the family income (increased by €3,000 for each dependent child beyond the first) or the individual income (if the student is not considered a dependent child) or the family income (if the student is married) <strong>less</strong> than €30,000?",
+        "options": ["Yes", "No"]
+    }
+]
